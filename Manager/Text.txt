@@ -1,0 +1,17 @@
+﻿Tasks:
+Test use:
+1. ProgramMain in ell print & Manager doing maxSum
+2. Strategy in end log print & set/get for values themselves and in constractor
+3. finalAllStratLog printString and value score
+ 
+ בדיקת פלטפורמה
+ תיקון הדפסות כל יום לקובץ ובדיקה בסוף
+ לא לשמור מידע גדול מידי בטוח הקוד
+
+ פעולת הכנת הלוג הראשי
+ פעולת הכנת לוגים
+
+ לבדוק לגבי קנייה ברצף
+ הישארות בפןזיציה
+ לפי מה נסגרת הפזוציה ואיך לחבר בסגירה
+ (תרשים XML)
